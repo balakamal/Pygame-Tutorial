@@ -29,7 +29,7 @@ BORDER = pygame.Rect(WIDTH // 2 - BORDER_WIDTH // 2, 0, BORDER_WIDTH, HEIGHT)
 SPACESHIP_WIDTH, SPACESHIP_HEIGHT = 50, 40
 
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("FirstGame")
+pygame.display.set_caption("Space Game")
 
 # loading the assests
 
