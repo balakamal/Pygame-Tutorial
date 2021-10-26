@@ -10,6 +10,6 @@ Red player can use "Arrow" keys for movement and "Right CTRL" key to fire a bull
 
 # Want to learn how to build
 
-https://youtu.be/jO6qQDNa2UY
+> https://youtu.be/jO6qQDNa2UY
 
 > credits Tech with Tim
